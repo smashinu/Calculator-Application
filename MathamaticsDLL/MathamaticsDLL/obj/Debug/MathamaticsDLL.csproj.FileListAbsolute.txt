@@ -1,0 +1,14 @@
+E:\Programming 3\Class 6\MathamaticsDLL\MathamaticsDLL\bin\Debug\MathamaticsDLL.dll
+E:\Programming 3\Class 6\MathamaticsDLL\MathamaticsDLL\bin\Debug\MathamaticsDLL.pdb
+E:\Programming 3\Class 6\MathamaticsDLL\MathamaticsDLL\obj\Debug\MathamaticsDLL.dll
+E:\Programming 3\Class 6\MathamaticsDLL\MathamaticsDLL\obj\Debug\MathamaticsDLL.pdb
+F:\Programming 3\Class 6\MathamaticsDLL\MathamaticsDLL\bin\Debug\MathamaticsDLL.dll
+F:\Programming 3\Class 6\MathamaticsDLL\MathamaticsDLL\bin\Debug\MathamaticsDLL.pdb
+F:\Programming 3\Class 6\MathamaticsDLL\MathamaticsDLL\obj\Debug\MathamaticsDLL.csproj.CoreCompileInputs.cache
+F:\Programming 3\Class 6\MathamaticsDLL\MathamaticsDLL\obj\Debug\MathamaticsDLL.dll
+F:\Programming 3\Class 6\MathamaticsDLL\MathamaticsDLL\obj\Debug\MathamaticsDLL.pdb
+E:\Programming 3\Class 7\MathamaticsDLL\MathamaticsDLL\bin\Debug\MathamaticsDLL.dll
+E:\Programming 3\Class 7\MathamaticsDLL\MathamaticsDLL\bin\Debug\MathamaticsDLL.pdb
+E:\Programming 3\Class 7\MathamaticsDLL\MathamaticsDLL\obj\Debug\MathamaticsDLL.csprojResolveAssemblyReference.cache
+E:\Programming 3\Class 7\MathamaticsDLL\MathamaticsDLL\obj\Debug\MathamaticsDLL.dll
+E:\Programming 3\Class 7\MathamaticsDLL\MathamaticsDLL\obj\Debug\MathamaticsDLL.pdb

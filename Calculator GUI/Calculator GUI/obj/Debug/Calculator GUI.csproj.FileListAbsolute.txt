@@ -1,0 +1,34 @@
+E:\Programming 3\Class 6\Calculator GUI\Calculator GUI\bin\Debug\Calculator GUI.exe.config
+E:\Programming 3\Class 6\Calculator GUI\Calculator GUI\bin\Debug\Calculator GUI.exe
+E:\Programming 3\Class 6\Calculator GUI\Calculator GUI\bin\Debug\Calculator GUI.pdb
+E:\Programming 3\Class 6\Calculator GUI\Calculator GUI\bin\Debug\MathamaticsDLL.dll
+E:\Programming 3\Class 6\Calculator GUI\Calculator GUI\bin\Debug\MathamaticsDLL.pdb
+E:\Programming 3\Class 6\Calculator GUI\Calculator GUI\obj\Debug\Calculator GUI.csprojResolveAssemblyReference.cache
+E:\Programming 3\Class 6\Calculator GUI\Calculator GUI\obj\Debug\Calculator_GUI.Form1.resources
+E:\Programming 3\Class 6\Calculator GUI\Calculator GUI\obj\Debug\Calculator_GUI.Properties.Resources.resources
+E:\Programming 3\Class 6\Calculator GUI\Calculator GUI\obj\Debug\Calculator GUI.csproj.GenerateResource.Cache
+E:\Programming 3\Class 6\Calculator GUI\Calculator GUI\obj\Debug\Calculator GUI.exe
+E:\Programming 3\Class 6\Calculator GUI\Calculator GUI\obj\Debug\Calculator GUI.pdb
+F:\Programming 3\Class 6\Calculator GUI\Calculator GUI\bin\Debug\Calculator GUI.exe.config
+F:\Programming 3\Class 6\Calculator GUI\Calculator GUI\bin\Debug\Calculator GUI.exe
+F:\Programming 3\Class 6\Calculator GUI\Calculator GUI\bin\Debug\Calculator GUI.pdb
+F:\Programming 3\Class 6\Calculator GUI\Calculator GUI\bin\Debug\MathamaticsDLL.dll
+F:\Programming 3\Class 6\Calculator GUI\Calculator GUI\bin\Debug\MathamaticsDLL.pdb
+F:\Programming 3\Class 6\Calculator GUI\Calculator GUI\obj\Debug\Calculator_GUI.Form1.resources
+F:\Programming 3\Class 6\Calculator GUI\Calculator GUI\obj\Debug\Calculator_GUI.Properties.Resources.resources
+F:\Programming 3\Class 6\Calculator GUI\Calculator GUI\obj\Debug\Calculator GUI.csproj.GenerateResource.Cache
+F:\Programming 3\Class 6\Calculator GUI\Calculator GUI\obj\Debug\Calculator GUI.csproj.CoreCompileInputs.cache
+F:\Programming 3\Class 6\Calculator GUI\Calculator GUI\obj\Debug\Calculator GUI.exe
+F:\Programming 3\Class 6\Calculator GUI\Calculator GUI\obj\Debug\Calculator GUI.pdb
+F:\Programming 3\Class 6\Calculator GUI\Calculator GUI\obj\Debug\Calculator GUI.csprojResolveAssemblyReference.cache
+E:\Programming 3\Class 7\Calculator GUI\Calculator GUI\bin\Debug\Calculator GUI.exe.config
+E:\Programming 3\Class 7\Calculator GUI\Calculator GUI\obj\Debug\Calculator GUI.exe
+E:\Programming 3\Class 7\Calculator GUI\Calculator GUI\obj\Debug\Calculator GUI.pdb
+E:\Programming 3\Class 7\Calculator GUI\Calculator GUI\obj\Debug\Calculator GUI.csprojResolveAssemblyReference.cache
+E:\Programming 3\Class 7\Calculator GUI\Calculator GUI\obj\Debug\Calculator_GUI.Form1.resources
+E:\Programming 3\Class 7\Calculator GUI\Calculator GUI\obj\Debug\Calculator_GUI.Properties.Resources.resources
+E:\Programming 3\Class 7\Calculator GUI\Calculator GUI\obj\Debug\Calculator GUI.csproj.GenerateResource.Cache
+E:\Programming 3\Class 7\Calculator GUI\Calculator GUI\bin\Debug\Calculator GUI.exe
+E:\Programming 3\Class 7\Calculator GUI\Calculator GUI\bin\Debug\Calculator GUI.pdb
+E:\Programming 3\Class 7\Calculator GUI\Calculator GUI\bin\Debug\MathamaticsDLL.dll
+E:\Programming 3\Class 7\Calculator GUI\Calculator GUI\bin\Debug\MathamaticsDLL.pdb
